@@ -2,9 +2,9 @@
 
 ## Thông tin học viên
 
-* Họ và tên: `[Điền sau]`
-* Mã học viên: `[Điền sau]`
-* Repo: `Day22-Track1-[MãHV]-[HọVàTên]`
+* Họ và tên: `Nguyễn Minh Đức`
+* Mã học viên: `2A202600808`
+* Repo: `Day22-Track1-2A202600808-NguyenMinhDuc`
 
 ---
 
